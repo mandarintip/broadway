@@ -6,21 +6,18 @@ body{
 /*heading and nav*/
 .hero{
     background-image: url("../img/the-flatiron-building.png");
+    background-position: center;
     color: white;
 }
 h1{
     font-size: 70px;
     font-weight: bold;
 }
-ul{
-    list-style: none;
-}
-li{
-    padding-top: 15px;
-}
 .hero a{
     color: white;
     font-size: 18px;
+    display: block;
+    padding-top: 12px;
 }
 
 /*Process and about*/
